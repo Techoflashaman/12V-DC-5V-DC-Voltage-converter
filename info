@@ -1,0 +1,39 @@
+{
+  "uuid": "0fdf687650e2291640e2252b8a52f490",
+  "path": "Offline/Voltage%20converter",
+  "name": "Voltage converter",
+  "content": "convert voltage from 12V to 5V",
+  "created_at": "2022-02-03 12:30:02",
+  "updated_at": "2022-02-03 13:22:13",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "663aab408e24e57f34867b8f7f500e66",
+      "puuid": "0fdf687650e2291640e2252b8a52f490",
+      "title": "PCB_voltage reulator module",
+      "filename": "PCB_voltage reulator module.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "f8151fdc728a41ebbc304e11d39e5437": 1,
+        "9d18933fed794095a6ce2f09e5242099": 1,
+        "36b1306a115341f4b4d9407fb34974e0": 2,
+        "1efb3a885b5b4aecb6d41221a8f4d86b": 1,
+        "398691f1f785460098bbe5ee6590333c": 1
+      },
+      "BOM": [],
+      "updateTime": 1643874733,
+      "createTime": 1643871602,
+      "histories": [],
+      "created_at": "2022-02-03 12:30:02",
+      "updated_at": "2022-02-03 13:22:13"
+    }
+  ],
+  "sort": [],
+  "title": "Voltage converter",
+  "foldername": "Voltage converter",
+  "schfilename": "Voltage converter.json",
+  "schfilemtime": 1643871602461.2202
+}
